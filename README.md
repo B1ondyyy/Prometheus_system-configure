@@ -9,7 +9,7 @@
 ### Шаг 1: Клонирование репозитория и установка зависимостей
 
 ```
-git clone https://github.com/B1ondyyy/utmn_otrpo_lab10.git
+git clone https://github.com/B1ondyyy/Prometheus_system-configure.git
 cd utmn_otrpo_lab10
 ```
 
