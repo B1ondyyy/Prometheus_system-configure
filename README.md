@@ -10,7 +10,7 @@
 
 ```
 git clone https://github.com/B1ondyyy/Prometheus_system-configure.git
-cd utmn_otrpo_lab10
+cd Prometheus_system-configure
 ```
 
 ```
